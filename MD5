@@ -1,0 +1,16 @@
+413fa11538245a4489386b9b636f1dda *DESCRIPTION
+a5f58ff3c259f7aa8f7961f7837ededf *LICENSE
+121f64ce964e375e6578a029afd5e51c *NAMESPACE
+27f1543b1fff67c62a766026768979ed *R/dtanb.R
+5557f9a106699ce2308ff2c0e62a1662 *R/htanb.R
+62cea65f80422db4716c0255cd0b23d7 *R/ptanb.R
+3e81635aae972a020e378bcccac8176d *R/qtanb.R
+605efe639b82e51b66f231c82fac2f06 *R/rtanb.R
+7f3133e8aff26e0be86fe4fafb4decd0 *R/stanb.R
+bbce2a217bff0bafd346c77d54842fe2 *README.md
+23d70df1ddc00b1c50dffd2b1f9073ca *man/dtanb.Rd
+7f45f8613c911197b4a5c6a5d000f2b4 *man/htanb.Rd
+9fd00597dabb7624ce1479c54d250934 *man/ptanb.Rd
+baafcd01e8f3dc15cceb999c9321dbfc *man/qtanb.Rd
+db20bf011ab251fe1a91b0363a95d4cd *man/rtanb.Rd
+9ec672fa39caeb91a730758235d1a16e *man/stanb.Rd
